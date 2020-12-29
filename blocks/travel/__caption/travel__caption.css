@@ -1,0 +1,28 @@
+.travel__caption{
+    width: 160px;
+    height: 14px;
+    margin: 0;
+    padding-top: 8px;
+    padding-left: 148px;
+    letter-spacing: .17em;
+    font-size: 10px;
+    font-weight: 200;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+@media only screen and (max-width: 1024px){     
+    .travel__caption{
+        padding-left: 48px;
+    }
+}
+@media only screen and (max-width: 768px){     
+    .travel__caption{
+        padding-left: 24px;
+    }
+}
+@media only screen and (max-width: 320px){     
+    .travel__caption{
+        padding-left: 16px;
+    }
+}

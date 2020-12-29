@@ -1,0 +1,11 @@
+.nav__list{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (max-width: 320px){     
+    .nav__list{
+        display: flex;
+        flex-direction: column;
+    }
+}

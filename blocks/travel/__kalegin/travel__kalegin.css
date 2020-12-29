@@ -1,0 +1,31 @@
+.travel__kalegin{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    padding-top: 64px;
+    padding-left: 148px;
+    padding-right: 148px;
+    width: 984px;
+    height: 615px;
+}
+@media only screen and (max-width: 1024px){     
+    .travel__kalegin{
+        width: 928px;
+        height: 580px;
+        padding: 56px 48px 0px 48px;
+    }
+}
+@media only screen and (max-width: 768px){     
+    .travel__kalegin{
+        width: 768px;
+        height: 480px;
+        padding: 56px 0px 0px 0px;
+    }
+}
+@media only screen and (max-width: 320px){     
+    .travel__kalegin{
+        width: 320px;
+        height: 200px;
+        padding: 40px 0px 0px 0px;
+    }
+}

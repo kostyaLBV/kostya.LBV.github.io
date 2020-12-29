@@ -1,0 +1,31 @@
+.travel__subtitle{
+    width: 640px;
+    height: 72px;
+    padding-left: 320px;
+    padding-right: 320px;
+    padding-top: 32px;
+    margin: 0;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #FFFFFF;
+}
+@media only screen and (max-width: 1024px){     
+    .travel__subtitle{
+        padding: 32px 192px 0px 192px;
+    }
+}
+@media only screen and (max-width: 768px){     
+    .travel__subtitle{
+        padding: 32px 64px 0px 64px;
+    }
+}
+@media only screen and (max-width: 320px){     
+    .travel__subtitle{
+        padding: 16px 16px 0px 16px;
+        width: 288px;
+        height: 40px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+}
