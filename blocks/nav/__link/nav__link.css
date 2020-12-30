@@ -1,9 +1,0 @@
-.nav__link{
-    text-decoration: none;
-    padding-right: 18px; 
-}
-
-.nav__link:hover{
-    transition: linear 0.3s;
-    opacity: 0.4;
-}
