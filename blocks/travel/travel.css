@@ -1,8 +1,0 @@
-.travel{
-    margin-top: 56px;
-}
-@media only screen and (max-width: 1024px){     
-    .travel{
-        margin-top: 48px;
-    }
-}
